@@ -1,0 +1,17 @@
+.nav{
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+    padding: 1rem 0;
+    background-color: black;
+}
+.nav a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+a.active{
+    font-size: 1.25rem;
+    color: tomato;
+}
